@@ -30,5 +30,3 @@
     3. Optionally repeat the posting step and check the updated price.
     
 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
-    
-Oracle docs: https://docs.pro.coinbase.com/#oracle
